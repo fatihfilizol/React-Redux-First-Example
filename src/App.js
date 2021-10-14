@@ -14,13 +14,13 @@ function App() {
         </Col>
         </Row>
         <Row className="rowButton"> 
-        <Col sx="3">
+        <Col sx="4">
           <IncreaseCounter/>
         </Col>
-        <Col sx="3">
+        <Col sx="4">
           <DecreaseCounter/>
         </Col>
-        <Col sx="6">
+        <Col sx="4">
           <IncreseByTwoCounter/>
         </Col>
       </Row>
